@@ -1,0 +1,11 @@
+<org.jenkinsci.plugins.periodicbackup.BackupObject plugin="periodicbackup@1.5">
+  <fileManager class="org.jenkinsci.plugins.periodicbackup.ConfigOnly">
+    <restorePolicy class="org.jenkinsci.plugins.periodicbackup.OverwriteRestorePolicy"/>
+  </fileManager>
+  <storage class="org.jenkinsci.plugins.periodicbackup.TarGzStorage"/>
+  <location class="org.jenkinsci.plugins.periodicbackup.LocalDirectory">
+    <enabled>true</enabled>
+    <path>/home/david/backup/output/final</path>
+  </location>
+  <timestamp>2019-10-22 13:34:33.121 UTC</timestamp>
+</org.jenkinsci.plugins.periodicbackup.BackupObject>
