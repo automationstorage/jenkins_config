@@ -7,5 +7,5 @@
     <enabled>true</enabled>
     <path>/home/david/backup/output/final</path>
   </location>
-  <timestamp>2020-05-28 07:00:47.803 UTC</timestamp>
+  <timestamp>2020-05-29 07:00:48.251 UTC</timestamp>
 </org.jenkinsci.plugins.periodicbackup.BackupObject>
